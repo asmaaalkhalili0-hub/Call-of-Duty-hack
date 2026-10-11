@@ -35,7 +35,7 @@ EXCLUDE_DIR_NAMES = {
 }
 
 # تجاهل المجلدات المخفية (التي تبدأ بنقطة) - اجعلها False إذا أردت تضمينها
-SKIP_HIDDEN = True
+SKIP_HIDDEN = False
 
 # الحد الأقصى لحجم الملف بالميجابايت (0 = بلا حد)
 MAX_FILE_SIZE_MB = 100
